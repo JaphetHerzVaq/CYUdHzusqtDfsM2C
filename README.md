@@ -1,5 +1,5 @@
 
-# README: Candidate Recommendation System with Embedding Techniques and Machine Learning Models**
+# **README: Candidate Recommendation System with Embedding Techniques and Machine Learning Models**
 
 ## **Objective**
 
